@@ -1,0 +1,23 @@
+{
+    "appTitle": "LingoDash",
+    "selectLanguage": "Select Language",
+    "continueText": "Continue",
+    "welcome": "Welcome to LingoDash",
+    "startLearning": "Start Learning",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "name": "Name",
+    "confirmPassword": "Confirm Password",
+    "createAccount": "Create Account",
+    "resetPassword": "Reset Password",
+    "sendResetLink": "Send Reset Link",
+    "backToLogin": "Back to Login"
+}

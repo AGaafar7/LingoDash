@@ -1,0 +1,23 @@
+{
+    "appTitle": "LingoDash",
+    "selectLanguage": "Pilih Bahasa",
+    "continueText": "Lanjutkan",
+    "welcome": "Selamat Datang di LingoDash",
+    "startLearning": "Mulai Belajar",
+    "settings": "Pengaturan",
+    "profile": "Profil",
+    "logout": "Keluar",
+    "login": "Masuk",
+    "signup": "Daftar",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "forgotPassword": "Lupa Kata Sandi?",
+    "dontHaveAccount": "Belum punya akun?",
+    "alreadyHaveAccount": "Sudah punya akun?",
+    "name": "Nama",
+    "confirmPassword": "Konfirmasi Kata Sandi",
+    "createAccount": "Buat Akun",
+    "resetPassword": "Atur Ulang Kata Sandi",
+    "sendResetLink": "Kirim Link Atur Ulang",
+    "backToLogin": "Kembali ke Masuk"
+}

@@ -1,0 +1,23 @@
+{
+    "appTitle": "LingoDash",
+    "selectLanguage": "Pilih Bahasa",
+    "continueText": "Teruskan",
+    "welcome": "Selamat Datang ke LingoDash",
+    "startLearning": "Mula Belajar",
+    "settings": "Tetapan",
+    "profile": "Profil",
+    "logout": "Log Keluar",
+    "login": "Log Masuk",
+    "signup": "Daftar",
+    "email": "E-mel",
+    "password": "Kata Laluan",
+    "forgotPassword": "Lupa Kata Laluan?",
+    "dontHaveAccount": "Tiada akaun?",
+    "alreadyHaveAccount": "Sudah mempunyai akaun?",
+    "name": "Nama",
+    "confirmPassword": "Sahkan Kata Laluan",
+    "createAccount": "Cipta Akaun",
+    "resetPassword": "Tetapkan Semula Kata Laluan",
+    "sendResetLink": "Hantar Pautan Tetapan Semula",
+    "backToLogin": "Kembali ke Log Masuk"
+}

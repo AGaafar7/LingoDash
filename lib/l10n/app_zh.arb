@@ -1,0 +1,23 @@
+{
+    "appTitle": "LingoDash",
+    "selectLanguage": "选择语言",
+    "continueText": "继续",
+    "welcome": "欢迎使用 LingoDash",
+    "startLearning": "开始学习",
+    "settings": "设置",
+    "profile": "个人资料",
+    "logout": "退出登录",
+    "login": "登录",
+    "signup": "注册",
+    "email": "电子邮件",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "dontHaveAccount": "没有账号？",
+    "alreadyHaveAccount": "已有账号？",
+    "name": "姓名",
+    "confirmPassword": "确认密码",
+    "createAccount": "创建账号",
+    "resetPassword": "重置密码",
+    "sendResetLink": "发送重置链接",
+    "backToLogin": "返回登录"
+}

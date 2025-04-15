@@ -1,0 +1,23 @@
+{
+    "appTitle": "لينجو داش",
+    "selectLanguage": "اختر اللغة",
+    "continue": "متابعة",
+    "welcome": "مرحباً بك في لينجو داش",
+    "startLearning": "ابدأ التعلم",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج",
+    "login": "تسجيل الدخول",
+    "signup": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "name": "الاسم",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "createAccount": "إنشاء حساب",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "sendResetLink": "إرسال رابط إعادة التعيين",
+    "backToLogin": "العودة لتسجيل الدخول"
+}

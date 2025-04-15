@@ -1,0 +1,23 @@
+{
+    "appTitle": "লিঙ্গোড্যাশ",
+    "selectLanguage": "ভাষা নির্বাচন করুন",
+    "continueText": "চালিয়ে যান",
+    "welcome": "লিঙ্গোড্যাশে স্বাগতম",
+    "startLearning": "শেখা শুরু করুন",
+    "settings": "সেটিংস",
+    "profile": "প্রোফাইল",
+    "logout": "লগ আউট",
+    "login": "লগ ইন",
+    "signup": "নিবন্ধন করুন",
+    "email": "ইমেইল",
+    "password": "পাসওয়ার্ড",
+    "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন?",
+    "dontHaveAccount": "অ্যাকাউন্ট নেই?",
+    "alreadyHaveAccount": "ইতিমধ্যে একটি অ্যাকাউন্ট আছে?",
+    "name": "নাম",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "createAccount": "অ্যাকাউন্ট তৈরি করুন",
+    "resetPassword": "পাসওয়ার্ড রিসেট করুন",
+    "sendResetLink": "রিসেট লিঙ্ক পাঠান",
+    "backToLogin": "লগইনে ফিরে যান"
+}

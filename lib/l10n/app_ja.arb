@@ -1,0 +1,23 @@
+{
+    "appTitle": "LingoDash",
+    "selectLanguage": "言語を選択",
+    "continueText": "続ける",
+    "welcome": "LingoDashへようこそ",
+    "startLearning": "学習を始める",
+    "settings": "設定",
+    "profile": "プロフィール",
+    "logout": "ログアウト",
+    "login": "ログイン",
+    "signup": "新規登録",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "dontHaveAccount": "アカウントをお持ちでない方",
+    "alreadyHaveAccount": "すでにアカウントをお持ちの方",
+    "name": "名前",
+    "confirmPassword": "パスワードの確認",
+    "createAccount": "アカウントを作成",
+    "resetPassword": "パスワードをリセット",
+    "sendResetLink": "リセットリンクを送信",
+    "backToLogin": "ログインに戻る"
+}
