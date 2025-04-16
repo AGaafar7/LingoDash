@@ -82,6 +82,18 @@ class UserCard extends StatelessWidget {
               Text('Used Units: ${usage!.usedUnits}'),
               Text('Translation Used: ${usage!.translationUsed}'),
             ],
+            const SizedBox(height: 16),
+            ElevatedButton(
+              onPressed: () async {
+                // Logic to end subscription
+                ScaffoldMessenger.of(context).showSnackBar(
+                  SnackBar(
+                    content: Text('Subscription ended for ${user.name}'),
+                  ),
+                );
+              },
+              child: const Text('End Subscription'),
+            ),
           ],
         ),
       ),

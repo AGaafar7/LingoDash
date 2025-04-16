@@ -4,7 +4,7 @@ import 'package:lingodash/screens/home_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class LanguageSelectionScreen extends StatefulWidget {
-  const LanguageSelectionScreen({Key? key}) : super(key: key);
+  const LanguageSelectionScreen({super.key});
 
   @override
   _LanguageSelectionScreenState createState() =>

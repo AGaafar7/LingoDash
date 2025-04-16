@@ -8,7 +8,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:lingodash/main.dart';
 import 'package:lingodash/screens/home_screen.dart';
 
 void main() {
